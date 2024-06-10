@@ -1,7 +1,7 @@
 # Challenge Conversor de Moedas (Alura + Oracle Next Education)
 
 Este é um projeto simples que realiza a conversão de algumas moedas. Um menu interativo permite ao usuário escolher entre diferentes opções de conversão de moedas.
-<div><img src="https://github.com/juantfarias/Conversor-De-Moedas/Badge-Conversor.png"></div>
+<div><img src="https://github.com/juantfarias/Conversor-De-Moedas/blob/main/Badge-Conversor.png"></div>
 
 ## Funcionalidades
 
